@@ -9,10 +9,14 @@
 // //alert - Task#1
 // let name = prompt('Enter your name');
 // alert(`your name is ${name}`)
-//alert - Task2
-if (confirm("are you sure you want to delet the product?")) {
-    console.log("deleted")
-}
-else {
-    console.log("canceld")
-}
+// //alert - Task2
+// if (confirm("are you sure you want to delet the product?")) {
+//     console.log("deleted")
+// }
+// else {
+//     console.log("canceld")
+// }
+//variables - Task#1
+let admin, name = "John";
+admin = name;
+console.log(admin);
