@@ -1,2 +1,2 @@
-const myName = {firstname:"Rawaa", lastname:"Tareef"}
-console.log(myName)
+const myNamearry = ["Rawaa","Tareef"]
+console.log(myNamearry)
