@@ -6,6 +6,13 @@
 // //Task3
 // const myNamearry = ["Rawaa","Tareef"]
 // console.log(myNamearry)
-//alert - Task#1
-let name = prompt('Enter your name');
-alert(`your name is ${name}`)
+// //alert - Task#1
+// let name = prompt('Enter your name');
+// alert(`your name is ${name}`)
+//alert - Task2
+if (confirm("are you sure you want to delet the product?")) {
+    console.log("deleted")
+}
+else {
+    console.log("canceld")
+}
